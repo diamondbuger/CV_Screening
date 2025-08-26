@@ -7,5 +7,9 @@ The **CV Screening Web App** helps streamline the recruitment process by automat
 - Matches candidate skills with job requirements.  
 - Provides recruiters with quick and accurate role suggestions.  
 
+🚀 **Live Demo**  
+👉 Try it here: https://cvscreening-zz4esil4dkkemsqujbib8e.streamlit.app/
+
+---
 
 
